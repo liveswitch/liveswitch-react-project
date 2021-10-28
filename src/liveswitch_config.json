@@ -1,0 +1,6 @@
+{
+    "applicationId" : "replace-with-your-app-id",
+    "channelId" : "hello-world-channel",
+    "gatewayUrl" : "https://cloud.liveswitch.io/",
+    "sharedSecret" : "replace-with-your-shared-secret"
+}
